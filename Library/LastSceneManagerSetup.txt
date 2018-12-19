@@ -1,0 +1,5 @@
+sceneSetups:
+- path: C:/Users/Belkis/Desktop/school stuff/Daemonium Venador (Game)/Assets/Scenes/Daemonium
+    Venador Title.unity
+  isLoaded: 1
+  isActive: 1

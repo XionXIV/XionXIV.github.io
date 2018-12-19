@@ -1,0 +1,17 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\BasicPhysics.cs">
+    <Files>
+      <File FileName="Assets\BasicPhysics.cs" Line="1" Column="1" />
+      <File FileName="Assets\UITimer.cs" Line="1" Column="1" />
+      <File FileName="Assets\move.cs" Line="1" Column="1" />
+      <File FileName="Assets\Laser.cs" Line="1" Column="1" />
+      <File FileName="Assets\BasicAnim.cs" Line="1" Column="1" />
+      <File FileName="Assets\mainMenu.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
